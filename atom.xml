@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://sundoop.github.io/atom.xml" rel="self"/>
-  <link href="http://sundoop.github.io/"/>
-  <updated>2013-09-05T15:03:05-07:00</updated>
-  <id>http://sundoop.github.io/</id>
+  <link href="http://sundoop.github.com/atom.xml" rel="self"/>
+  <link href="http://sundoop.github.com/"/>
+  <updated>2013-09-05T15:16:07-07:00</updated>
+  <id>http://sundoop.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
